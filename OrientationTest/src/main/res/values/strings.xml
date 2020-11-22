@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OrientationTest</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <string name="button5">button5</string>
+    <string name="button6">button6</string>
+    <string name="button7">button7</string>
+    <string name="textview">welcome</string>
+</resources>
